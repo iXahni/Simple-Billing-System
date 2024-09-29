@@ -1,0 +1,10 @@
+C:\Users\54HN1\Documents\Project25\bin\Debug\Project25.exe.config
+C:\Users\54HN1\Documents\Project25\bin\Debug\Project25.exe
+C:\Users\54HN1\Documents\Project25\bin\Debug\Project25.pdb
+C:\Users\54HN1\Documents\Project25\obj\Debug\Project25.csproj.AssemblyReference.cache
+C:\Users\54HN1\Documents\Project25\obj\Debug\Project25.Properties.Resources.resources
+C:\Users\54HN1\Documents\Project25\obj\Debug\Project25.csproj.GenerateResource.cache
+C:\Users\54HN1\Documents\Project25\obj\Debug\Project25.csproj.CoreCompileInputs.cache
+C:\Users\54HN1\Documents\Project25\obj\Debug\Project25.exe
+C:\Users\54HN1\Documents\Project25\obj\Debug\Project25.pdb
+C:\Users\54HN1\Documents\Project25\obj\Debug\Project25.Form1.resources
